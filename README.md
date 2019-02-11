@@ -1,3 +1,3 @@
 # Capstone
 
-Locate this codes inside your ROS repository.
+Locate these codes inside your ROS repository.
